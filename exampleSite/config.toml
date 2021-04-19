@@ -1,0 +1,90 @@
+baseURL = "/"
+disableLanguages = []
+googleAnalytics = ""
+theme = "mesa_prueba"
+themesDir = "../.."
+title = "Mesa de servicio"
+[Languages.en]
+copyright = "Copyright © 2020 a Hugo theme by [Gethugothemes](https://gethugothemes.com/)"
+hasChildren = ""
+languageCode = "en-us"
+languageName = "En"
+parent = ""
+weight = 1
+[[Languages.en.menu.main]]
+name = "Menú "
+parent = ""
+url = ""
+weight = "2"
+[[Languages.en.menu.main]]
+name = "Soporte"
+parent = "Pruebas virtuales"
+url = "Soporte"
+weight = "2"
+[[Languages.en.menu.main]]
+name = "Características "
+parent = "Pruebas virtuales"
+url = "Caracteristicas"
+weight = "1"
+[[Languages.en.menu.main]]
+name = "Pruebas virtuales"
+parent = "Menú"
+url = ""
+weight = "3"
+[[Languages.en.menu.main]]
+name = "Plantel"
+parent = "Servicios"
+url = "plantel"
+weight = "2"
+[[Languages.en.menu.main]]
+name = "Estudiantes"
+parent = "Servicios"
+url = "estudent"
+weight = "1"
+[[Languages.en.menu.main]]
+name = "Servicios"
+parent = "Menú "
+url = "servicios"
+weight = "1"
+[[Languages.en.menu.main]]
+name = "Inicio"
+parent = ""
+url = "/"
+weight = 1
+[[Languages.en.menu.main]]
+hasChildren = true
+name = "Cursos"
+parent = "Menú"
+url = "cursos"
+weight = "2"
+[[Languages.en.menu.main]]
+name = "5000 sueños"
+parent = "Cursos"
+url = "suenios"
+weight = 1
+[Languages.en.params.banner]
+bg_image = "images/banner.jpg"
+placeholder = "Si tiene alguna duda, solo escriba la consulta."
+subtitle = "Obtenga respuestas a travéz del buscador"
+title = "Preguntas frecuentes"
+[Languages.en.params.cta]
+content = "Escribanos un mensaje y nos comunicaremos pronto."
+enable = true
+title = "¿No encontró una solución al problema?"
+[Languages.en.params.cta.button]
+enable = true
+label = "Contáctenos"
+link = "contact"
+[markup.goldmark.renderer]
+unsafe = true
+[params]
+body_color = "#f9f9f9"
+contact_form_action = "https://formspree.io/f/xoqprael"
+font_family = "lato"
+light_color = "#f8f9fa"
+logo = "images/logo-enlazaa.png"
+logo_white = ""
+primary_color = "#02007e"
+text_color = "#636363"
+text_color_dark = "#242738"
+white_color = "#ffffff"

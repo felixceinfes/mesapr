@@ -1,0 +1,24 @@
+---
+label: indextemplate
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: datetime
+  name: date
+  label: date
+- type: text
+  name: icon
+  label: icon
+- type: text
+  name: description
+  label: description
+- type: text
+  name: type
+  label: type
+pages:
+- exampleSite/content/Caracteristicas/_index.en.md
+- exampleSite/content/Soporte/_index.en.md
+- exampleSite/content/estudent/_index.en.md
+- exampleSite/content/plantel/_index.en.md
