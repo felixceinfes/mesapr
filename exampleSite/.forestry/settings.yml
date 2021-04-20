@@ -10,26 +10,6 @@ sections:
   create: all
   match: "**/*"
 - type: directory
-  path: exampleSite/content/Caracteristicas
-  label: Características
-  create: all
-  match: "**/*"
-- type: directory
-  path: exampleSite/content/Soporte
-  label: Soporte
-  create: all
-  match: "**/*"
-- type: directory
-  path: exampleSite/content/plantel
-  label: Plantel
-  create: all
-  match: "**/*"
-- type: directory
-  path: exampleSite/content/estudent
-  label: Estudiantes
-  create: all
-  match: "**/*"
-- type: directory
   path: exampleSite/content/suenios
   label: Curso
   create: all
