@@ -12,11 +12,6 @@ languageName = "En"
 parent = ""
 weight = 1
 [[Languages.en.menu.main]]
-name = "Soporte"
-parent = "Menú"
-url = "Soporte"
-weight = "3"
-[[Languages.en.menu.main]]
 name = "Menú "
 parent = ""
 url = ""
