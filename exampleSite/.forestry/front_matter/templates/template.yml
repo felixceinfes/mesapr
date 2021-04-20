@@ -23,4 +23,5 @@ fields:
     required: false
   label: type
 pages:
+- exampleSite/content/Pruebas virtuales/Pruebas Virtuales/caracteristicas.md
 - exampleSite/content/Pruebas virtuales/Soporte/soporte.md
