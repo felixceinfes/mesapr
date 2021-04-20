@@ -19,7 +19,7 @@ weight = "2"
 [[Languages.en.menu.main]]
 name = "Pruebas virtuales"
 parent = "Menú"
-url = "Pruebas virtuales"
+url = "Pruebasvirtuales"
 weight = "3"
 [[Languages.en.menu.main]]
 name = "Servicios"
