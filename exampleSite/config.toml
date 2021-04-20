@@ -12,6 +12,11 @@ languageName = "En"
 parent = ""
 weight = 1
 [[Languages.en.menu.main]]
+name = "Pruebas virtuales"
+parent = "Menú"
+url = ""
+weight = "2"
+[[Languages.en.menu.main]]
 name = "Menú "
 parent = ""
 url = ""
