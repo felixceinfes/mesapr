@@ -18,4 +18,5 @@ fields:
   name: type
   label: type
 pages:
+- exampleSite/content/Pruebas virtuales/Pruebas Virtuales/_index.en.md
 - exampleSite/content/Pruebas virtuales/Soporte/soporte.md
