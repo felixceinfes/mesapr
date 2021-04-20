@@ -17,3 +17,5 @@ fields:
 - type: text
   name: type
   label: type
+pages:
+- exampleSite/content/pruebasvirtuales/Características /_index.en.md
