@@ -22,16 +22,6 @@ parent = "Menú"
 url = "Pruebas virtuales"
 weight = "3"
 [[Languages.en.menu.main]]
-name = "Plantel"
-parent = "Servicios"
-url = "plantel"
-weight = "2"
-[[Languages.en.menu.main]]
-name = "Estudiantes"
-parent = "Servicios"
-url = "estudent"
-weight = "1"
-[[Languages.en.menu.main]]
 name = "Servicios"
 parent = "Menú "
 url = "servicios"
