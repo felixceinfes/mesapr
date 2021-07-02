@@ -10,5 +10,5 @@ weight = 1
 
 
 > 1. Solicita en tu colegio las credenciales de acceso asignadas
-> 2. Ingresar a la pagina \[www.miltonochoa.com\]([http://www.miltonochoa.com](http://www.miltonochoa.com "http://www.miltonochoa.com"))
+> 2. Ingresar a la pagina [http://www.miltonochoa.com]
 > 3. Ingresa el usuario y contraseña en la ventana verde “consulte sus resultados”
