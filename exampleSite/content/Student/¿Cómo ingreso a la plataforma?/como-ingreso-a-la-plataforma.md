@@ -7,7 +7,7 @@ type = "docs"
 weight = 1
 
 +++
-##### ¿Cómo ingreso a la plataforma?
+
 
 > 1. Solicita en tu colegio las credenciales de acceso asignadas
 > 2. Ingresar a la pagina \[www.miltonochoa.com\]([http://www.miltonochoa.com](http://www.miltonochoa.com "http://www.miltonochoa.com"))
