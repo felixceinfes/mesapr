@@ -24,6 +24,7 @@ fields:
   label: type
 pages:
 - exampleSite/content/Student/como-analizo-los-resultados-obtenidos.md
+- exampleSite/content/Student/¿Cómo analizo los resultados obtenidos?/como-analizo-los-resultados-obtenidos.md
 - exampleSite/content/Student/¿Cómo cambio mi contraseña de acceso a la plataforma?/como-cambio-mi-contrasena-de-acceso-a-la-plataforma.md
 - exampleSite/content/Student/¿Cómo consulto mis resultados?/como-consulto-mis-resultados.md
 - exampleSite/content/Student/¿Cómo ingreso a la plataforma?/como-ingreso-a-la-plataforma.md
