@@ -23,4 +23,5 @@ fields:
     required: false
   label: type
 pages:
+- exampleSite/content/Student/¿Cómo consulto mis resultados?/como-consulto-mis-resultados.md
 - exampleSite/content/Student/¿Cómo ingreso a la plataforma?/como-ingreso-a-la-plataforma.md
