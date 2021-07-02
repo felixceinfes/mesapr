@@ -7,4 +7,4 @@ type = "Docs"
 weight = 2
 
 +++
-![](/uploads/listado-notasestudiante-1.gif)
+![](/uploads/listado-notasestudiante.gif)
