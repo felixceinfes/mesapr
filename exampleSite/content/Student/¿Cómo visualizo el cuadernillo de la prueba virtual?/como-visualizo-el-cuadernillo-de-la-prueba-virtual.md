@@ -8,7 +8,7 @@ weight = 5
 
 +++
 
-* Ingresar a la pagina www.miltonochoa.com con usuario y contraseña de acceso “consulta sus resultados”
+* **Ingresar a la pagina www.miltonochoa.com con usuario y contraseña de acceso “consulta sus resultados”**
 * Dar clic sobre “detalle de prueba” luego se debe seleccionar la prueba que se requiere revisar.
 
 ![](/uploads/1-1.png)
