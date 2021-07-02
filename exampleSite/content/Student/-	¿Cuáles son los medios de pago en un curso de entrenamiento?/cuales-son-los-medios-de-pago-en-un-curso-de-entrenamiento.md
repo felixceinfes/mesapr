@@ -7,3 +7,6 @@ type = "docs"
 weight = 6
 
 +++
+Rta: 
+
+Pasar la info de acuerdo al word enviado a Carlos
