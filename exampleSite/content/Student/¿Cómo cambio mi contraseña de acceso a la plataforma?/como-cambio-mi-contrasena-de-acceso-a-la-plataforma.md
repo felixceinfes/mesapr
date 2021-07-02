@@ -4,7 +4,7 @@ keywords = []
 lastmod = ""
 title = "¿Cómo cambio mi contraseña de acceso a la plataforma?"
 type = "Docs"
-weight = nil
+weight = 3
 
 +++
 ![](/uploads/cambia-contrasena.gif)
