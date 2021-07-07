@@ -20,5 +20,6 @@ fields:
 pages:
 - exampleSite/content/Plantel/_index.en.md
 - exampleSite/content/Student/_idex.en.md
+- exampleSite/content/informacion/_index.en.md
 - exampleSite/content/pruebasvirtuales/Características /_index.en.md
 - exampleSite/content/pruebasvirtuales/Soporte/_index.en.md
