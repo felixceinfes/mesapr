@@ -12,13 +12,18 @@ languageName = "En"
 parent = ""
 weight = 1
 [[Languages.en.menu.main]]
+name = "¿Cómo visualizo el cuadernillo de la prueba virtual?"
+parent = ""
+url = ""
+weight = ""
+[[Languages.en.menu.main]]
 name = "Plantel"
 parent = ""
 url = "Plantel"
 weight = "6"
 [[Languages.en.menu.main]]
 name = "Estudiantes"
-parent = ""
+parent = "Menú"
 url = "Student"
 weight = "5"
 [[Languages.en.menu.main]]
