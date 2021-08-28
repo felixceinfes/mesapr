@@ -3,7 +3,7 @@ date = 2021-07-07T05:00:00Z
 keywords = []
 lastmod = ""
 title = "¿Cómo consulto mis resultados?"
-type = "docs"
+type = ""
 weight = 2
 
 +++
