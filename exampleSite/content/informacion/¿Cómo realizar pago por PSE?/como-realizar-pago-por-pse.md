@@ -3,7 +3,7 @@ date = 2021-07-07T05:00:00Z
 keywords = []
 lastmod = ""
 title = "¿Cómo realizar pago por PSE?"
-type = "docs"
+type = ""
 weight = 1
 
 +++
