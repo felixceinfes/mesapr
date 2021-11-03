@@ -7,6 +7,5 @@ type = "docs"
 weight = 8
 
 +++
-¿Cómo ingreso a las clases virtuales por Teams?
 
- https://youtu.be/EYDSxN0UUHw 
+https://youtu.be/EYDSxN0UUHw
