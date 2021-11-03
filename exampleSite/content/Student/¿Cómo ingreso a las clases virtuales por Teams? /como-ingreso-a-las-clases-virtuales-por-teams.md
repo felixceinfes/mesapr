@@ -8,4 +8,4 @@ weight = 8
 
 +++
 
-{{< youtube [/EYDSxN0UUHw](https://youtu.be/EYDSxN0UUHw "https://youtu.be/eydsxn0uuhw") >}}
+{{< youtube EYDSxN0UUHw >}}
