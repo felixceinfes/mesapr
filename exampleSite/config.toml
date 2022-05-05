@@ -13,7 +13,7 @@ parent = ""
 weight = 1
 [[Languages.en.menu.main]]
 name = "Docentes por horas"
-parent = ""
+parent = "Menú"
 url = ""
 weight = ""
 [[Languages.en.menu.main]]
