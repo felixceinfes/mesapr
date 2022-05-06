@@ -18,6 +18,7 @@ fields:
   name: type
   label: type
 pages:
+- exampleSite/content/Docentesporhoras/como-consultar-mi-programacion.md
 - exampleSite/content/Plantel/_idex.en.md
 - exampleSite/content/Student/_idex.en.md
 - exampleSite/content/informacion/_index.en.md
