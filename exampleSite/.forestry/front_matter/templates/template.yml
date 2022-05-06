@@ -23,6 +23,7 @@ fields:
     required: false
   label: type
 pages:
+- exampleSite/content/Junio1/junio.md
 - exampleSite/content/Mayo/3/156.md
 - exampleSite/content/Mayo/Semana/9.md
 - "exampleSite/content/Student/-\t¿Cuáles son los medios de pago en un curso de entrenamiento?/cuales-son-los-medios-de-pago-en-un-curso-de-entrenamiento.md"
