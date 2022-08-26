@@ -30,7 +30,7 @@ weight = "7"
 name = "Plantel"
 parent = "Menú"
 url = "Plantel"
-weight = "6"
+weight = "5"
 [[Languages.en.menu.main]]
 name = "Estudiantes"
 parent = "Menú"
