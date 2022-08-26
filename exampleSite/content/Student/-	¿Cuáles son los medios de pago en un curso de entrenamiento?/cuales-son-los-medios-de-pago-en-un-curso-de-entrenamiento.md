@@ -7,6 +7,10 @@ type = ""
 weight = 6
 
 +++
-Rta: 
+Rta:
+
+Pasar la info de acuerdo al word enviado a Carlos
+
+Pasar la info de acuerdo al word enviado a Carlos
 
 Pasar la info de acuerdo al word enviado a Carlos
