@@ -23,6 +23,7 @@ fields:
     required: false
   label: type
 pages:
+- exampleSite/content/Junio1/Agosto/agosto.md
 - exampleSite/content/Junio1/junio.md
 - exampleSite/content/Junio1/junio2.md
 - exampleSite/content/Junio1/semana/9.md
