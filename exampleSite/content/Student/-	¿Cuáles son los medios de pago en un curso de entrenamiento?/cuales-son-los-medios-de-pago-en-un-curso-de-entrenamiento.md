@@ -13,4 +13,4 @@ Pasar la info de acuerdo al word enviado a Carlos
 
 Pasar la info de acuerdo al word enviado a Carlos
 
-Pasar la info de acuerdo al word enviado a Carlos
+Pasar la info de acuerdo al word enviado a Carlos.
