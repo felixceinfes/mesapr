@@ -61,7 +61,7 @@ hasChildren = true
 name = "Cursos"
 parent = "Menú"
 url = "cursos"
-weight = "2"
+weight = "1"
 [[Languages.en.menu.main]]
 name = "5000 sueños"
 parent = "Cursos"
