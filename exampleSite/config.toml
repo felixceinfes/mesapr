@@ -25,7 +25,7 @@ weight = "4"
 name = "Información"
 parent = "Menú"
 url = "informacion"
-weight = "7"
+weight = "6"
 [[Languages.en.menu.main]]
 name = "Plantel"
 parent = "Menú"
