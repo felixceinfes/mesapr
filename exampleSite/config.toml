@@ -13,7 +13,7 @@ parent = ""
 weight = 1
 [[Languages.en.menu.main]]
 name = "Agosto Presentación"
-parent = "Menú"
+parent = "MENÚ"
 url = "agostopresentación"
 weight = "10"
 [[Languages.en.menu.main]]
